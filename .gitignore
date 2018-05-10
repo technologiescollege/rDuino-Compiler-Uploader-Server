@@ -17,3 +17,6 @@ cur/
 tmp/
 __pycache__/
 *.DS_Store
+arduinoBinaries/my_StandardFirmataPlus.ino.mega.hex
+arduinoBinaries/my_StandardFirmataPlus.ino.standard.hex
+static/styles.css
